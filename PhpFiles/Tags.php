@@ -33,3 +33,16 @@ print 'Hello<br>Hi';
 
 <?='Hello, World';?> // this is called short tag
 // --> prints Hello, World (such as 'echo')
+
+/* Comments */
+<?php
+   // Single Line Comment
+   # Single Line Comment
+   /* Multi Line Comment */
+   /*   ====================
+   	== My Special App ==
+   	====================
+  */
+
+   echo 'Hello' /* Single Line */;
+
