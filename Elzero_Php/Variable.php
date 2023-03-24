@@ -81,6 +81,27 @@
 
   echo $b; // prints Elazony :0
 
+  // =---------------------------------------------------------
+
+  /*
+    Pre-Defined Variables
+  */
+
+  echo '<pre>';
+  print_r($_SERVER); // pre-defined array for the server stuff 
+  echo '</pre>';
+
+  echo $_SERVER["HTTP_CONNECTION"];
+
+  echo $_POST["username"];
+
+?>
+
+<form action="" method="post">
+  <input type="text" name="username">
+  <input type="submit" value="send">
+</form>
+
 
 
 
