@@ -1,5 +1,5 @@
 # PHPStudyNotes
-## PHP Code Files
+## PHP Course Contents
 
 * [Php Tags](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Tags.php)
 * [Data Types](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/DataTypes.php)
