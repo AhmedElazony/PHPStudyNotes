@@ -94,6 +94,7 @@
   echo $_SERVER["HTTP_CONNECTION"];
 
   echo $_POST["username"];
+  echo '</pre>';
 
 ?>
 
