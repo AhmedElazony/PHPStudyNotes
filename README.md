@@ -9,7 +9,7 @@
 * [Variables](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Variable.php)
 * [Constants](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Constants.php)
 * [Operators](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Operators/) 
-- [Comparison Operators](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Operators/Comparison_Operators.php)
+	* [Comparison Operators](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Operators/Comparison_Operators.php)
 
 ## Laracasts PHP Course
 ### Code for course sections
