@@ -9,7 +9,7 @@
 * [Variables](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Variable.php)
 * [Constants](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Constants.php)
 
-* <bold>Operators</bold> 
+* <b>Operators 
 	* [Arithmetic And Assignment OPerators](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Operators/Arithmetic_And_Assignment_OPerators.php)	
 	* [Comparison Operators](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Operators/Comparison_Operators.php)
 	* [Increment And Decrement Operators](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Operators/Comparison_Operators.php)
@@ -19,7 +19,7 @@
 	* [Error Control Operator](https://github.com/AhmedElazony/PHPStudyNotes/tree/main/Elzero_Php/Operators/Error_Control_Operator.php)
 	* [Operator Precedence](https://github.com/AhmedElazony/PHPStudyNotes/tree/main/Elzero_Php/Operators/Operator_Precedence.php)	
 
-* <bold> If, Elseif, Else Statements</bold>
+* <b>If, Elseif, Else Statements
 	* [If Else](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/If_Statement/If_Else.php)
 	* [Alternate Syntax for If Statement](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/If_Statement/Alternate_Syntax.php)
 	* [Nested If Statement](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/If_Statement/Nested_If.php)
