@@ -2,7 +2,7 @@
 
 // make access to the database
 
-$dsn = "mysql:host=localhost;port=3306;dbname=myapp;user=root;password=ahmedwael2440;charset=utf8mb4";
+$dsn = "mysql:host=localhost;port=3306;dbname=myapp;user=root;password=helloworld;charset=utf8mb4";
 
 $pdo = new PDO($dsn);
 
