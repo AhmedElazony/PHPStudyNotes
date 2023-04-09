@@ -24,6 +24,7 @@
 	* [Alternate Syntax for If Statement](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/If_Statement/Alternate_Syntax.php)
 	* [Nested If Statement](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/If_Statement/Nested_If.php)
 	* [Ternary Operator](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/If_Statement/Ternary_Operator.php)
+	* [Switch Statement](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/If_Statement/Switch.php)
 
 ## Laracasts PHP Course
 ### Code for course sections
