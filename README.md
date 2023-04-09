@@ -25,6 +25,11 @@
 	* [Nested If Statement](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/If_Statement/Nested_If.php)
 	* [Ternary Operator](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/If_Statement/Ternary_Operator.php)
 	* [Switch Statement](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/If_Statement/Switch.php)
+* <b>Loops</b>
+	* [While And Do While](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Loop/While_And_Do_While.php)\
+	* [For Loop](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Loop/For_Loop.php)
+	* [Foreach](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Loop/Foreach.php)
+	* [Break, Continue](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Loop/Break_Continue.php)
 
 ## Laracasts PHP Course
 ### Code for course sections
