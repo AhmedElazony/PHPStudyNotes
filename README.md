@@ -31,13 +31,13 @@
 	* [Foreach](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Loop/Foreach.php)
 	* [Break, Continue](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Loop/Break_Continue.php)
 * <b>Functions</b>
-	* [Functions Intro](https://github.com/AhmedElazony/blob/main/Elzero_Php/Function/Function_Intro.php)
-	* [Arguments And Splat Operator](https://github.com/AhmedElazony/blob/main/Elzero_Php/Function/Arguments_And_Splat_Operator.php)
-	* [Variable Function And Function Exists](https://github.com/AhmedElazony/blob/main/Elzero_Php/Function/Variable_Functions.php)
-	* [Passing By Reference And Return Type Declaration](https://github.com/AhmedElazony/blob/main/Elzero_Php/Function/Passing_By_Reference.php)
-	* [Anonymous Functions](https://github.com/AhmedElazony/blob/main/Elzero_Php/Function/Anonymous_Functions.php)
+	* [Functions Intro](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Function/Function_Intro.php)
+	* [Arguments And Splat Operator](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Function/Arguments_And_Splat_Operator.php)
+	* [Variable Function And Function Exists](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Function/Variable_Functions.php)
+	* [Passing By Reference And Return Type Declaration](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Function/Passing_By_Reference.php)
+	* [Anonymous Functions](https://github.com/AhmedElazony/PHPstudyNotes/blob/main/Elzero_Php/Function/Anonymous_Functions.php)
 * <b>Built-in Funcitons</b>
-	* [String Functions](https://github.com/AhmedElazony/blob/main/Elzero_Php/Built_In_Functions/String_Functions.php)
+	* [String Functions](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Built_In_Functions/String_Functions.php)
 
 ## Laracasts PHP Course
 ### Code for course sections
