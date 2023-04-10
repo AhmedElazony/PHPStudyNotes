@@ -36,7 +36,8 @@
 	* [Variable Function And Function Exists](https://github.com/AhmedElazony/blob/main/Elzero_Php/Function/Variable_Functions.php)
 	* [Passing By Reference And Return Type Declaration](https://github.com/AhmedElazony/blob/main/Elzero_Php/Function/Passing_By_Reference.php)
 	* [Anonymous Functions](https://github.com/AhmedElazony/blob/main/Elzero_Php/Function/Anonymous_Functions.php)
-
+* <b>Built-in Funcitons</b>
+	* [String Functions](https://github.com/AhmedElazony/blob/main/Elzero_Php/Built_In_Funcitons/String_Functions.php)
 
 ## Laracasts PHP Course
 ### Code for course sections
