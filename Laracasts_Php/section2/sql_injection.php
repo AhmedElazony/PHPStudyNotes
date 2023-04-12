@@ -24,9 +24,17 @@ $config = require('config.php');
 // Connect To MySQL Database, And Execute a query
 $db = new Database($config['database'], 'root', 'ahmedwael2440');
 
+
+/* Do This */
 $id = $_GET['id'];
-$query = "SELECT * FROM users WHERE id = ?";
+$query = "SELECT * FROM posts WHERE id = ?";
 $posts = $db->query($query, [$id])->fetch();
+
+/* Instead of This:
+
+  $query = "SELECT * FROM posts WHERE id = {$id}"; // this will make a sql injection
+
+*/
 
 // dump_and_die($posts);
 
