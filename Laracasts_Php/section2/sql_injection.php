@@ -22,7 +22,7 @@ require 'Database.php';
 $config = require('config.php');
 
 // Connect To MySQL Database, And Execute a query
-$db = new Database($config['database'], 'root', 'ahmedwael2440');
+$db = new Database($config['database'], 'root', 'helloworld');
 
 
 /* Do This */
