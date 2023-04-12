@@ -46,3 +46,5 @@
 	* [A PHP Page Router](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Laracasts_Php/section2/router.php)
 	* [Deal With Database](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Laracasts_Php/section2/database.php)
 	* [Deal With SQL Injection](https://github.com/AhmedELazony/PHPStudyNotes/blob/main/Laracasts_Php/section2/sql_injection.php)
+* <b>Section 3: Mini Project Notes</b>
+	* [First Notes View on The website](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Laracasts_Php/section3/notes.php)
