@@ -37,8 +37,8 @@
 	* [Passing By Reference And Return Type Declaration](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Function/Passing_By_Reference.php)
 	* [Anonymous Functions](https://github.com/AhmedElazony/PHPstudyNotes/blob/main/Elzero_Php/Function/Anonymous_Functions.php)
 * <b>Built-in Funcitons</b>
-	* [String Functions](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Built_In_Functions/String_Functions.php)
-
+	* [String Functions Part 1](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Built_In_Functions/String_Functions_1.php)
+	* [String Functions Part 2](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Built_In_Functions/String_Functions_2.php)
 ## Laracasts PHP Course
 ### Code for course sections
 * [Section 1](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Laracasts_Php/section1.php)
