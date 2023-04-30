@@ -44,6 +44,7 @@
 	
 	<b>Array Functions</b>
 	* [Array Functions Part 1](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Built_In_Functions/Array_Functions_1.php)	
+	* [Array Functions Part 2](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Built_In_Functions/Array_Functions_2.php)	
 
 ## Laracasts PHP Course
 ### Code for course sections
