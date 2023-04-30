@@ -45,6 +45,23 @@
 	<b>Array Functions</b>
 	* [Array Functions Part 1](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Built_In_Functions/Array_Functions_1.php)	
 	* [Array Functions Part 2](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Built_In_Functions/Array_Functions_2.php)	
+	
+	<b>Math Functions</b>
+	* [Math Functions](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Built_In_Functions/Math_Functions.php)
+
+	<b>Filter Functions</b>
+	* [Filter Functions](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Built_In_Functions/Filter_Functions.php)
+
+	<b>File System Functions</b>
+	* [File System Functions](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Built_In_Functions/File_System_Functions.php)
+	
+	<b>Datetime Funcitons</b>
+	* [Datetime Functions](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Built_In_Functions/Datetime_Functions.php)
+
+* <b>Cookies And Sessions</b>
+	* [Deal With Cookies](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Cookies_And_Sessions/Cookies.php)
+	* [Deal With Sessions](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Cookies_And_Sessions/Sessions.php)
+
 
 ## Laracasts PHP Course
 ### Code for course sections
