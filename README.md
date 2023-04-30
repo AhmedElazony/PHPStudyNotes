@@ -38,24 +38,24 @@
 	* [Anonymous Functions](https://github.com/AhmedElazony/PHPstudyNotes/blob/main/Elzero_Php/Function/Anonymous_Functions.php)
 * <b>Built-in Funcitons</b>
 
-	<b>String Functions</b>
+	<em>String Functions</em>
 	* [String Functions Part 1](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Built_In_Functions/String_Functions_1.php)
 	* [String Functions Part 2](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Built_In_Functions/String_Functions_2.php)
 	
-	<b>Array Functions</b>
+	<em>Array Functions</em>
 	* [Array Functions Part 1](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Built_In_Functions/Array_Functions_1.php)	
 	* [Array Functions Part 2](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Built_In_Functions/Array_Functions_2.php)	
 	
-	<b>Math Functions</b>
+	<em>Math Functions</em>
 	* [Math Functions](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Built_In_Functions/Math_Functions.php)
 
-	<b>Filter Functions</b>
+	<em>Filter Functions</em>
 	* [Filter Functions](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Built_In_Functions/Filter_Functions.php)
 
-	<b>File System Functions</b>
+	<em>File System Functions</em>
 	* [File System Functions](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Built_In_Functions/File_System_Functions.php)
 	
-	<b>Datetime Funcitons</b>
+	<em>Datetime Funcitons</em>
 	* [Datetime Functions](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Built_In_Functions/Datetime_Functions.php)
 
 * <b>Cookies And Sessions</b>
