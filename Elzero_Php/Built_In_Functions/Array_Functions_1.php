@@ -194,3 +194,30 @@
   echo array_sum($courses); // 265
 
   // =-------------------------------------------------------------------------------------=
+
+  /*
+    Array Functions
+
+    --- Every Array Has An Internal Pointer To Its "Current" Element
+    --- Which Is Initialized To The First Element.
+    --- Functions Returns Value Of Array Element That's Currently Pointed By The Internal Pointer
+
+    - current(Array[Required]) => Return The Current Element In An Array
+    - next(Array[Required]) => Advance The Internal Pointer
+    - prev(Array[Required]) => Rewind The Internal Pointer
+    - reset(Array[Required]) => Put The Internal Pointer On First Element
+    - end(Array[Required]) => Put The Internal Pointer On Last Element
+
+  */
+
+  $countries = ['EG' => 'Egypt', 'KSA' => 'Saudi Arabia', 'Sy' => 'Syria', 'Jr' => 'Jordan', "PS" => 'Palestine'];
+
+  echo current($countries) . '<br>'; // Egypt
+  echo next($countries) . '<br>'; // Saudi Arabia
+  echo current($countries) . '<br>'; // Saudi Arabia
+  echo next($countries) . '<br>'; // Syria
+  echo prev($countries) . '<br>'; // Saudi Arabia
+  echo reset($countries) . '<br>'; // Egypt
+  echo end($countries) . '<br>'; // Palestine
+
+	// =------------------------------------------------------------------=
