@@ -66,13 +66,19 @@
 ## Laracasts PHP Course
 ### Code for course sections
 * [Section 1](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Laracasts_Php/section1.php)
+
 * <b>Section 2</b>
+
         * [A PHP Page Router](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Laracasts_Php/section2/router.php)
         * [Deal With Database](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Laracasts_Php/section2/database.php)
         * [Deal With SQL Injection](https://github.com/AhmedELazony/PHPStudyNotes/blob/main/Laracasts_Php/section2/sql_injection.php)
+
 * <b>Section 3 And Section 4: Mini Project Notes</b>
+
         * [The Notes Project Files](https://github.com/AhmedELazony/PHPStudyNotes/blob/main/Laracasts_Php/project/demo)
+
 * <b>Section 5</b>
+
         * [Making regestration](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Laracasts_Php/section5/regesteration.php)
 	* [Authentacation](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Laracasts_Php/section5/authentacation.php)	
 
