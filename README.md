@@ -75,7 +75,6 @@
 * <b>Section 3 And Section 4: Mini Project Notes</b>
         * [The Notes Project Files](https://github.com/AhmedELazony/PHPStudyNotes/blob/main/Laracasts_Php/project/demo)
 
-* <b>Section 5</b>
-        * [Making regestration](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Laracasts_Php/section5/regesteration.php)
-	* [Authentacation](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Laracasts_Php/section5/authentacation.php)	
+* [Section 5](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Laracasts_Php/section5)
 
+* [Section 6](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Laracasts_Php/section6)
