@@ -63,11 +63,13 @@
 	* [Deal With Cookies](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Cookies_And_Sessions/Cookies.php)
 	* [Deal With Sessions](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Cookies_And_Sessions/Sessions.php)
 </details>
+
 ---
 
 ## Laracasts PHP Course
 <details>
-### Code for course sections
+	<summary>Code for course sections</summary>
+
 * [Section 1](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Laracasts_Php/section1.php)
 
 * <b>Section 2</b>
