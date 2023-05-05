@@ -85,6 +85,7 @@
 * [Section 6](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Laracasts_Php/section6)
 * [The Project After Authentication, Refactoring And Testing](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Laracasts_Php/project2/demo)
 </details>
+
 ---
 
 ## Object Oriented Programming
