@@ -82,4 +82,4 @@
 ---
 
 ## Object Oriented Programming
-* [Fundamental Concepts](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Laracasts_Php/OOP/Summary.md)
+* [Fundamental Concepts](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/OOP/Summary.md)
