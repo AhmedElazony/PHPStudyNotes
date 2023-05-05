@@ -1,7 +1,7 @@
 # PHPStudyNotes
 ## Elzero PHP Bootcamp
 ### PHP Course Contents
-
+<details>
 * [Php Tags](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Tags.php)
 * [Data Types](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/DataTypes.php)
 * [String And Escaping](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/String_And_Escaping.php)
@@ -61,9 +61,11 @@
 * <b>Cookies And Sessions</b>
 	* [Deal With Cookies](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Cookies_And_Sessions/Cookies.php)
 	* [Deal With Sessions](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Cookies_And_Sessions/Sessions.php)
+</details>
 ---
 
 ## Laracasts PHP Course
+<details>
 ### Code for course sections
 * [Section 1](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Laracasts_Php/section1.php)
 
@@ -79,6 +81,7 @@
 
 * [Section 6](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Laracasts_Php/section6)
 * [The Project After Authentication, Refactoring And Testing](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Laracasts_Php/project2/demo)
+</details>
 ---
 
 ## Object Oriented Programming
