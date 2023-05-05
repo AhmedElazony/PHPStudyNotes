@@ -1,7 +1,7 @@
 # PHPStudyNotes
 ## Elzero PHP Bootcamp
 <details>
-	<summary>PHP Course Contents</summary>
+	<summary><b>PHP Course Contents</b></summary>
 
 * [Php Tags](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Tags.php)
 * [Data Types](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/DataTypes.php)
