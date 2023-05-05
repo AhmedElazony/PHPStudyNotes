@@ -64,11 +64,9 @@
 	* [Deal With Sessions](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Cookies_And_Sessions/Sessions.php)
 </details>
 
----
-
 ## Laracasts PHP Course
 <details>
-	<summary>Code for course sections</summary>
+	<summary><b>Code for course sections</b></summary>
 
 * [Section 1](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Laracasts_Php/section1.php)
 
@@ -85,8 +83,6 @@
 * [Section 6](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Laracasts_Php/section6)
 * [The Project After Authentication, Refactoring And Testing](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Laracasts_Php/project2/demo)
 </details>
-
----
 
 ## Object Oriented Programming
 * [Fundamental Concepts](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/OOP/Summary.md)
