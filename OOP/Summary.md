@@ -8,6 +8,7 @@
 #### An Object:
 > It's the real Instance of the model of a thing in the real world.
 
+#### Note:
 _Every Class Has characterstics of its own:_
 _These can be adjectives => variables/fields/attributes,_
 _or actions => methods/functions._
