@@ -8,7 +8,11 @@
 #### An Object:
 > It's the real Instance of the model of a thing in the real world.
 
-_Every Class Has characterstics of its own,<br>These can be adjectives => variables/fields/attributes,<br>or actions => methods/functions_
+_Every Class Has characterstics of its own:_
+_These can be adjectives => variables/fields/attributes,_
+_or actions => methods/functions._
+
+
 ---
 
 ### There are Four Fundamental Concepts of OOP:
