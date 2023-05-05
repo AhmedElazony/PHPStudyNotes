@@ -13,15 +13,14 @@ _Every Class Has characterstics of its own:_
 _These can be adjectives => variables/fields/attributes,_
 _or actions => methods/functions._
 
-
 ---
 
 ### There are Four Fundamental Concepts of OOP:
-* Encapsulation (Information Hiding)
+#### Encapsulation (Information Hiding)
 > Hiding Data And Complexity.	
-* Abstraction
+#### Abstraction
 > Making Things Simplified.
-* Inheritance
+#### Inheritance
 > A Class Can derive Characterstics from another class.
-* Polymorphism
+#### Polymorphism
 > A Class Can implement an inherited method on its own way.
