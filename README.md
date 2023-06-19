@@ -3,6 +3,7 @@
 ## Elzero PHP Bootcamp
 
 <details>
+<<<<<<< HEAD
 
 <summary>PHP Course Contents</summary>
 
@@ -12,6 +13,9 @@
 - [Arrays](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Array.php)
 - [Variables](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Variable.php)
 - [Constants](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Constants.php)
+=======
+	<summary><b>PHP Course Contents</b></summary>
+>>>>>>> 2f29b689d1199239f2445d664b7622dc3999db65
 
 - <b>Operators</b>
 
@@ -73,13 +77,17 @@
 _ [Deal With Cookies](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Cookies_And_Sessions/Cookies.php)
 _ [Deal With Sessions](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Cookies_And_Sessions/Sessions.php)
 </details>
+<<<<<<< HEAD
 
 ---
+=======
+>>>>>>> 2f29b689d1199239f2445d664b7622dc3999db65
 
 ## Laracasts PHP Course
 
 <details>
-### Code for course sections
+	<summary><b>Code for course sections</b></summary>
+
 * [Section 1](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Laracasts_Php/section1.php)
 
 - <b>Section 2</b>
@@ -95,8 +103,11 @@ _ [Deal With Sessions](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/E
 - [Section 6](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Laracasts_Php/section6)
 - [The Project After Authentication, Refactoring And Testing](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Laracasts_Php/project2/demo)
 </details>
+<<<<<<< HEAD
 
 ---
+=======
+>>>>>>> 2f29b689d1199239f2445d664b7622dc3999db65
 
 ## Object Oriented Programming
 
