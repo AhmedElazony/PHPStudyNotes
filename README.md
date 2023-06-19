@@ -3,7 +3,6 @@
 ## Elzero PHP Bootcamp
 
 <details>
-
 <summary>PHP Course Contents</summary>
 
 - [Php Tags](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Tags.php)
@@ -11,9 +10,7 @@
 - [String And Escaping](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/String_And_Escaping.php)
 - [Arrays](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Array.php)
 - [Variables](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Variable.php)
-- # [Constants](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Constants.php)
-
-      <summary><b>PHP Course Contents</b></summary>
+- [Constants](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Constants.php)
 
 - <b>Operators</b>
 
@@ -72,13 +69,11 @@
   - [Datetime Functions](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Built_In_Functions/Datetime_Functions.php)
 
 - <b>Cookies And Sessions</b>
-_ [Deal With Cookies](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Cookies_And_Sessions/Cookies.php)
-_ [Deal With Sessions](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Cookies_And_Sessions/Sessions.php)
+- [Deal With Cookies](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Cookies_And_Sessions/Cookies.php)
+- [Deal With Sessions](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/Elzero_Php/Cookies_And_Sessions/Sessions.php)
 </details>
 
 ---
-
-=======
 
 ## Laracasts PHP Course
 
@@ -102,8 +97,6 @@ _ [Deal With Sessions](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/E
 </details>
 
 ---
-
-=======
 
 ## Object Oriented Programming
 
