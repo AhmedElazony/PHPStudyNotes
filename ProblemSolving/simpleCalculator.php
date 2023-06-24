@@ -9,10 +9,7 @@ class Calculator
 
     public function __construct($firstNum, $secondNum, $op)
     {
-        if (!is_numeric($firstNum) || !is_numeric($secondNum) ) {
-           echo 'Please Enter A Valid Number!';
-           die();
-        }
+        $this->validateNums($firstNum, $secondNum);
 
         $this->firstNum = $firstNum;
         $this->secondNum = $secondNum;
@@ -48,6 +45,13 @@ class Calculator
             return $this->result;
         }
         else return 0;
+    }
+    private function validateNums(...$nums): void
+    {
+        if (!is_numeric($nums[0]) || !is_numeric($nums[1]) ) {
+            echo 'Please Enter A Valid Number!';
+            die();
+        }
     }
 }
 
