@@ -108,4 +108,6 @@
 
 - [Search a Value in an Array](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/ProblemSolving/searchArray.php)
 
-* [Make An Array Unique](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/ProblemSolving/uniqueArray.php)
+- [Make An Array Unique](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/ProblemSolving/uniqueArray.php)
+
+- [A Simple Calculator](https://github.com/AhmedElazony/PHPStudyNotes/blob/main/ProblemSolving/simpleCalculator.php)
