@@ -5,7 +5,7 @@ class Calculator
     private $firstNum;
     private $secondNum;
     private $op;
-    public $result;
+    private $result;
 
     public function __construct($firstNum, $secondNum, $op)
     {
@@ -18,6 +18,7 @@ class Calculator
         $this->secondNum = $secondNum;
         $this->op = $op;
     }
+    
     public function Calculate()
     {
         if ($_SERVER['REQUEST_METHOD'] === "POST") {
@@ -33,7 +34,12 @@ class Calculator
                     $this->result = $this->firstNum * $this->secondNum;
                     break;
                 case '/':
-                    $this->result = $this->firstNum / $this->secondNum;
+                    try {
+                        $this->result = $this->firstNum / $this->secondNum;
+                    } catch (DivisionByZeroError) {
+                        echo 'Cannot Divide By Zero!';
+                        die();
+                    }
                     break;
                 default:
                     echo 'Please Enter A Valid Operation!';
