@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/Core/Authenticator.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Http/controllers/notes/create.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Http/controllers/notes/destroy.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Http/controllers/notes/edit.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Http/controllers/notes/index.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Http/controllers/notes/show.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Http/controllers/notes/store.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Http/controllers/notes/update.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Http/controllers/registration/store.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Http/controllers/session/store.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/public/index.php" dialect="GenericSQL" />
+  </component>
+</project>
