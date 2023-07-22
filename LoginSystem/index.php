@@ -23,11 +23,4 @@ $routes = [
     '/update-password' => 'Controllers/Password/update-password.php'
 ];
 
-function route($routes, $uri)
-{
-    if (array_key_exists($uri, $routes))
-    {
-        require($routes[$uri]);
-    }
-}
 route($routes, $uri);
