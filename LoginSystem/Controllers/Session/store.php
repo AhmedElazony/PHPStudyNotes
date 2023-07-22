@@ -1,7 +1,7 @@
 <?php
 
-use Core\Validator;
 use Core\Database;
+use Forms\LoginForm;
 
 $email = $_POST['email'];
 $password = $_POST['password'];
@@ -9,14 +9,7 @@ $password = $_POST['password'];
 $config = require('config.php');
 $db = new Database($config);
 
-$errors = [];
-if (! Validator::email($email)) {
-   $errors['email'] = 'Email Is Incorrect of Invalid!';
-}
-
-if (! Validator::string($password)) {
-   $errors['password'] = 'Password is Incorrect Or Invalid!';
-}
+new LoginForm(['email' => $email, 'password' => $password]);
 
 $user = $db->query("SELECT * FROM user WHERE email = :email", [
     'email' => $email
